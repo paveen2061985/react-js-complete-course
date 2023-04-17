@@ -1,0 +1,26 @@
+{
+  "name": "namasthe-react",
+  "version": "1.0.0",
+  "description": "this react complete course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paveen2061985/react-js-complete-course.git#master"
+  },
+  "author": "praveen sanikommu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paveen2061985/react-js-complete-course/issues"
+  },
+  "homepage": "https://github.com/paveen2061985/react-js-complete-course/tree/master#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
